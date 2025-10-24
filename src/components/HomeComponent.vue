@@ -1,7 +1,7 @@
 <template>
     <div>
-        <h1>Home Component</h1>
-        <img src="./../assets/images/home.png"/>
+        <h1>Home Componenteee</h1>
+        <img src="../assets/images/home.png"/>
     </div>
 </template>
 
